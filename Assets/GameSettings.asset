@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0eaf0bd4f3042bf957016c5a5fc2f01, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 8112706233039215590, guid: 4ce388d2ce9931748892c0bbfd27cb56,
+    type: 3}
+  towerPrefab: {fileID: 4930312370397203028, guid: 76e4e604f649b63439b46c51adc63b4c,
+    type: 3}
+  towerUpgradeCost: 150
+  enemyStats:
+    damage: 1
+    health: 100
+    goldReward: 15
+    damageUpgradeMin: 0
+    damageUpgradeMax: 1
+    healthUpgradeMin: 0
+    healthUpgradeMax: 10
+    goldRewardUpgradeMin: 0
+    goldRewardUpgradeMax: 5
+  towerUpgradeSettings:
+    damageUpgrade: 10
+    rateOfFireUpgrade: 0.2

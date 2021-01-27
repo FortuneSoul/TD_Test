@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7daa4ce33cc142488b7472c6dc8ee317, type: 3}
+  m_Name: LayoutPrefabs
+  m_EditorClassIdentifier: 
+  _roadPrefab: {fileID: 7907768836041609923, guid: b09c4a7599dcd4c44a9c0209e59d0b41,
+    type: 3}
+  _groundPrefab: {fileID: 7071828147465828148, guid: 4ba2b32fc1511a34bab7386dd1bb869e,
+    type: 3}
+  _spawnPointPrefab: {fileID: 3149906366852581449, guid: 859e2f615016d0c45a194427d866c536,
+    type: 3}
+  _destinationPrefab: {fileID: 7974445793689401870, guid: fb8f56c34f1a6844ab50c18f03594cc4,
+    type: 3}
